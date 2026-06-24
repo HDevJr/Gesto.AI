@@ -1,0 +1,30 @@
+# Ambientes locais
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Variaveis locais
+.env
+.env.*
+!.env.example
+
+# Artefatos gerados
+models/checkpoints/
+reports/metrics/
+data/interim/
+data/processed/
+
+# Sistema/editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.log

@@ -1,0 +1,6 @@
+sample_id,label,path
+oi_001,oi,data/raw/videos/oi/oi_001.mp4
+tchau_001,tchau,data/raw/videos/tchau/tchau_001.mp4
+sim_001,sim,data/raw/videos/sim/sim_001.mp4
+nao_001,nao,data/raw/videos/nao/nao_001.mp4
+obrigado_001,obrigado,data/raw/videos/obrigado/obrigado_001.mp4
