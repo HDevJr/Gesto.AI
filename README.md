@@ -522,4 +522,3 @@ Após adicionar vídeos, execute:
 
 A licença do projeto ainda não foi definida. Antes de reutilizar, distribuir ou publicar derivados, consulte o responsável pelo repositório.
 
-Recomenda-se adicionar um arquivo `LICENSE` antes da publicação ampla no GitHub.
